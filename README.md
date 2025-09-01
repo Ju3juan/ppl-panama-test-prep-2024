@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ppl-panama-test-prep-2024
 Anki deck for Private Pilot Licence (PPL) exam preparation in Panama. Compiled according to RACP requirements and based on ASA 2024, Jeppesen Guided Flight Discovery, and official course content.
 =======
@@ -73,4 +72,3 @@ Ver archivo [`LICENSE.md`](./LICENSE.md) para más detalles.
 Este material se comparte únicamente con fines educativos y de estudio personal.  
 No sustituye manuales oficiales ni instrucción aprobada.  
 Todos los derechos de autor de los textos originales pertenecen a sus respectivos dueños.  
->>>>>>> d6601d3 (README, LICENSE y .apkg)
